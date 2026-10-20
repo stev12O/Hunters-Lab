@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.jpg" width="160" alt="Hunters Lab — Digital Hunters">
+</p>
+
 <h1 align="center">Hunters Lab</h1>
 
 <p align="center"><b>Automatización de la generación de imágenes y videos mediante IA para creadores.</b></p>
