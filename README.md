@@ -8,7 +8,7 @@
 <p align="center">Generación y escalado masivo por lotes con <b>Google Flow (Veo 3.1, Omni Flash, Nano Banana Pro, Nano Banana 2 y Nano Banana 2 Lite)</b> desde una única aplicación de escritorio para <b>Windows</b> y <b>macOS</b>.</p>
 
 <p align="center">
-  <a href="https://github.com/stev12O/Hunters-Lab/releases/latest/download/HuntersLab_Setup_v1.1.3.exe"><img alt="Descargar para Windows" src="https://img.shields.io/badge/DESCARGAR%20WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/stev12O/Hunters-Lab/releases/latest/download/HuntersLab_Setup_v1.1.4.exe"><img alt="Descargar para Windows" src="https://img.shields.io/badge/DESCARGAR%20WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>&nbsp;
   <a href="https://github.com/stev12O/Hunters-Lab/releases/latest/download/HuntersLab-mac-arm64.dmg"><img alt="Descargar para macOS Apple Silicon" src="https://img.shields.io/badge/DESCARGAR%20MACOS-APPLE%20SILICON-000000?style=for-the-badge&logo=apple&logoColor=white"></a>&nbsp;
   <a href="https://github.com/stev12O/Hunters-Lab/releases/latest/download/HuntersLab-mac-intel.dmg"><img alt="Descargar para macOS Intel" src="https://img.shields.io/badge/DESCARGAR%20MACOS-INTEL-555555?style=for-the-badge&logo=apple&logoColor=white"></a>
 </p>
@@ -51,7 +51,7 @@ Descarga la última versión desde **[Releases](https://github.com/stev12O/Hunte
 
 | Tu equipo | Descarga Directa | Notas |
 | :--- | :--- | :--- |
-| **Windows 10 / 11 (64-bit)** | [**Descargar Windows (.exe)**](https://github.com/stev12O/Hunters-Lab/releases/latest/download/HuntersLab_Setup_v1.1.3.exe) | Para cualquier PC con Windows 10 u 11 |
+| **Windows 10 / 11 (64-bit)** | [**Descargar Windows (.exe)**](https://github.com/stev12O/Hunters-Lab/releases/latest/download/HuntersLab_Setup_v1.1.4.exe) | Para cualquier PC con Windows 10 u 11 |
 | **Mac con chip Apple (M1 / M2 / M3 / M4)** | [**Descargar macOS ARM (.dmg)**](https://github.com/stev12O/Hunters-Lab/releases/latest/download/HuntersLab-mac-arm64.dmg) | Macs con chip Apple Silicon (finales de 2020 en adelante) |
 | **Mac con chip Intel** | [**Descargar macOS Intel (.dmg)**](https://github.com/stev12O/Hunters-Lab/releases/latest/download/HuntersLab-mac-intel.dmg) | Macs con procesador Intel (anteriores a 2020) |
 
@@ -66,7 +66,7 @@ Descarga la última versión desde **[Releases](https://github.com/stev12O/Hunte
 <details open>
 <summary><b>En Windows</b></summary>
 
-1. Abre el instalador descargado **`HuntersLab_Setup_v1.1.3.exe`**.
+1. Abre el instalador descargado **`HuntersLab_Setup_v1.1.4.exe`**.
 2. Si aparece la ventana de Windows SmartScreen (*"Windows protegió su PC"*): haz clic en **Más información** → **Ejecutar de todas formas**. *(La aplicación aún no cuenta con firma comercial de Microsoft, por lo que Windows muestra este aviso preventivo).*
 3. Acepta los permisos de administrador y sigue el asistente de instalación hasta finalizar.
 4. Abre **Hunters Lab** desde el **Menú Inicio** o el acceso directo en tu **Escritorio**.
